@@ -1,0 +1,13 @@
+The below code code is provided to give transition effect as shown in image (Transition.jpg) 
+You can apply it for both Login & Registration page....
+
+//In place of body
+background: #070d13;
+
+
+//In place of .box
+background: linear-gradient(
+        to right bottom,
+        rgba(23, 113, 192, 0.7),
+        rgba(27, 22, 22, 0.3)
+      );
